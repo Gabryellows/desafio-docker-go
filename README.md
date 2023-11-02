@@ -6,4 +6,4 @@ docker run gabryllows/fullcycle
 
 Ter o seguinte resultado: Full Cycle Rocks!!
 
-**O link para repositorio da imagem no DockerHub** [gabryellows/fullcycle](https://hub.docker.com/repository/docker/gabryellows/fullcycle/general)
+**O link para repositorio da imagem no DockerHub** [gabryellows/fullcycle](https://hub.docker.com/r/gabryellows/fullcycle)
