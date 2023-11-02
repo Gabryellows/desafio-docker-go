@@ -2,7 +2,7 @@
 
 Desafio do modulo de docker da fullcycle onde tivemos que publicar uma imagem no docker hub e quando executado o run:
 
-docker run gabryllows/fullcycle
+docker run gabryellows/fullcycle
 
 Ter o seguinte resultado: Full Cycle Rocks!!
 
